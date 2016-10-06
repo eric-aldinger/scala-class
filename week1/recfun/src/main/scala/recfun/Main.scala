@@ -1,6 +1,8 @@
 package recfun
 
 import scala.annotation.tailrec
+import scala.util.matching
+import scala.util.matching.Regex
 
 object Main {
   def main(args: Array[String]) {
@@ -33,6 +35,9 @@ object Main {
 
       def converter(in : List[Char]) : List[Char]= {
         val valler = in.toString()
+        val stringstream: Stream[List[Char]] = Stream(in)
+
+        stringstream.filterNot(x => Regex.Match.==("""[()]"""))
 
 
       }
