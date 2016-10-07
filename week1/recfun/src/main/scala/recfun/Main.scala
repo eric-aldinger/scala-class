@@ -29,34 +29,44 @@ object Main {
   /**
    * Exercise 2
    */
-    def balance(chars: List[Char]): Boolean = {
-      val open_paren = "("
-      val close_paren = ")"
+  /*def balance(x: List[Char]): Boolean = {
+    val open  = x.indexOf('(')
+    val close = x.lastIndexOf(')')
+    val hasBalance = open < close
+    val hasOpen = x.contains('(')
+    val hasClose = x.contains(')')
 
-      def converter(in : List[Char]) : List[Char]= {
-        val valler = in.toString()
-        val stringstream: Stream[List[Char]] = Stream(in)
-
-        stringstream.filterNot(x => Regex.Match.==("""[()]"""))
-
-
-      }
-
-      if ( chars.isEmpty ){
-        true
-      }
-      else if( chars filter paren == chars){
-        true
-      }
-      else if( chars.head == singl && chars.tail == singl){
-        true
-      } else {
-        false
-      }
+    if (!hasOpen && !hasClose)
+    {true}
+    else if (!hasOpen && hasClose)
+    {false}
+    else if (hasOpen && !hasClose)
+    {false}
+    else if (!hasBalance)
+    {false}
+    else if (hasOpen && hasClose && hasBalance ) {
+      val split = x.splitAt(open)._2.splitAt(close)._1
+      balance(split)
     }
-  
+    else true
+  }*/
+
+  def balance(x: List[Char]): Boolean = {
+    val isClean = x.length == 0 || (! x.contains('(') && ! x.contains(')'))
+    val open = x.indexOf('(')
+    val close = x.indexOf(')')
+    val openLast = x.lastIndexOf('(')
+    val closeLast = x.lastIndexOf(')')
+    val hasBalance = open < close && openLast < closeLast
+    val ref = List('(', ')')
+    val validate = x.intersect(ref) == ref
+
+    isClean || (hasBalance && validate)
+  }
+
+
   /**
    * Exercise 3
    */
-    def countChange(money: Int, coins: List[Int]): Int = ???
+//    def countChange(money: Int, coins: List[Int]): Int = ???
   }

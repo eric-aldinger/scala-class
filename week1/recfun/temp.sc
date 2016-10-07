@@ -1,27 +1,27 @@
-import scala.util.matching.Regex
+val x : List[Char] = "())(".toList
+val open = x.indexOf('(')
+val close = x.indexOf(')')
+val openLast = x.lastIndexOf('(')
+val closeLast = x.lastIndexOf(')')
+val hasBalance = open < close && openLast < closeLast
+val ref = List('(', ')')
+val validate = x.intersect(ref) == ref
 
-def balance(chars: List[Char]): Boolean = {
-  def converter(in: List[Char]): List[Char] = {
-    val stringstream: Stream[List[Char]] = Stream(in)
-//TODO: split on (
-    //TODO parse each end
-    //Todo recurse
-    in //shim
-  }
-  converter(chars)
-  false//shim
+
+//x.filter(x => x.contains(')'))
+
+def balance(x: List[Char]): Boolean = {
+  val isClean = x.length == 0 || (! x.contains('(') && ! x.contains(')'))
+  val open = x.indexOf('(')
+  val close = x.indexOf(')')
+  val hasBalance = open < close
+  val ref = List('(', ')')
+  val validate = x.intersect(ref) == ref
+
+  isClean || (hasBalance && validate)
 }
 
-def converter(in: String) = {
-  val r = """\b[b-df-hj-np-tv-z]*[aeiou]+[b-df-hj-np-tv-z]*\b""".r
-  val regex = """[a-z, A-Z, " "]*[(][a-z, A-Z, " "]*[)][a-z, A-Z, " "]*""".r
-  regex.pattern.matcher(in).matches
-}
-
-val xx = """as (s) as"""
-converter(xx)
-balance(xx.toList)
-
+balance(x)
 /*import scala.annotation.tailrec
 
 @tailrec def factorial(n: Int, result: Int = 0): Int = {
@@ -40,3 +40,4 @@ balance(xx.toList)
 }
 
 factorial(200)*/
+
