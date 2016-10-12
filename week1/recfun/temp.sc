@@ -22,7 +22,7 @@ def balance(x: List[Char]): Boolean = {
 }
 
 balance(x)
-/*import scala.annotation.tailrec
+import scala.annotation.tailrec
 
 @tailrec def factorial(n: Int, result: Int = 0): Int = {
   require(n > 0, "message is that you tried to use a negative int")
@@ -39,5 +39,5 @@ balance(x)
   }
 }
 
-factorial(200)*/
+factorial(5)
 
