@@ -23,12 +23,6 @@ object nth {
       else if (n==0)
         Source.fetchHead
       else InterTheDragon(n - 1, Source.fetchTail)
-    //}
-    /*catch {
-      case a: IndexOutOfBoundsException => throw new IndexOutOfBoundsException
-      case b: NoSuchElementException => throw new IndexOutOfBoundsException
-      case e: Exception => throw new Exception
-    }*/
 }
 val s : ConsList[Int]= new Cons(1, new Cons(2, new Cons(3, new Nil)))
 nth.InterTheDragon(1,s)
