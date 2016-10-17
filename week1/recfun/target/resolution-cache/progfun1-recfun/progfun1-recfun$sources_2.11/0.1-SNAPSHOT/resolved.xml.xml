@@ -4,7 +4,7 @@
 		module="progfun1-recfun$sources_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161012221419"
+		publication="20161016170536"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
