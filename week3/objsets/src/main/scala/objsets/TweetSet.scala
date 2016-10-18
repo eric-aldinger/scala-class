@@ -71,8 +71,9 @@ abstract class TweetSet {
     *
     * TODO: verify this should be managed in subclasses
     */
-    def union(that: TweetSet): TweetSet
-
+    def union(that: TweetSet): TweetSet = {
+      that.filterAcc(set => true, this)
+    }
   /**
    * Returns the tweet from this set which has the greatest retweet count.
    *
@@ -93,13 +94,22 @@ abstract class TweetSet {
    * Question: Should we implment this method here, or should it remain abstract
    * and be implemented in the subclasses?
     *
-    * TODO verify this can be implemented here rather than subclasses
    */
 
-    def descendingByRetweet: TweetList = {
-      TweetSet.this.asInstanceOf[List[Tweet]].sortWith(_.retweets > _.retweets).asInstanceOf[TweetList]
+  def isEmpty: Boolean
+
+  def descendingByRetweet: TweetList = {
+    //FAIL this.asInstanceOf[List[Tweet]].sortWith(_.retweets > _.retweets).asInstanceOf[TweetList]
+    //objsets.NonEmpty cannot be cast to scala.collection.immutable.List
+
+    //ref http://cs.calstatela.edu/wiki/index.php/Courses/CS_332F/Fall_2013/Assignment_3#descendingByRetweet
+    //ref https://github.com/frankh/coursera-scala/blob/master/objsets/src/main/scala/objsets/TweetSet.scala
+    if (!isEmpty) {
+      new Cons(this.descendingByRetweet)
     }
-  
+    else Nil
+  }
+
   /**
    * The following methods are already implemented
    */
@@ -122,6 +132,7 @@ abstract class TweetSet {
    */
   def contains(tweet: Tweet): Boolean
 
+
   /**
    * This method takes a function and applies it to every element in the set.
    */
@@ -134,7 +145,8 @@ class Empty extends TweetSet {
 
   def filter(p: Tweet => Boolean): TweetSet = new Empty //filter of empty is empty
 
-  def union(p: TweetSet): TweetSet = new Empty() //union of null is always null
+//  def union(p: TweetSet): TweetSet = new Empty() //union of null is always null
+
 
   def mostRetweeted: Tweet = throw new java.util.NoSuchElementException()
 
@@ -159,19 +171,6 @@ class NonEmpty(elem: Tweet, left: TweetSet, right: TweetSet) extends TweetSet {
   }
 
   def filter(p: Tweet => Boolean): TweetSet = filterAcc(p, new Empty)
-
-  def union(p: TweetSet): TweetSet = {
-
-    p.filterAcc(set => true, this)
-
-    /*OLD LOGIC
-    type Set = TweetSet => Boolean
-    val x : Set = ???
-    val y : Set = ???
-    val z = x(p) || y(this)
-    z.asInstanceOf[TweetSet]
-    */
-  }
 
   def mostRetweeted: Tweet = {
     descendingByRetweet.head
@@ -229,14 +228,14 @@ object GoogleVsApple {
   val google = List("android", "Android", "galaxy", "Galaxy", "nexus", "Nexus")
   val apple = List("ios", "iOS", "iphone", "iPhone", "ipad", "iPad")
 
-    lazy val googleTweets: TweetSet = ???
-  lazy val appleTweets: TweetSet = ???
+  lazy val googleTweets: TweetSet = TweetReader.allTweets.filter(tweet => google.exists(elem => tweet.text.contains(elem)))
+  lazy val appleTweets: TweetSet = TweetReader.allTweets.filter(tweet2 => apple.exists(elem => tweet2.text.contains(elem)))
   
   /**
    * A list of all tweets mentioning a keyword from either apple or google,
    * sorted by the number of retweets.
    */
-     lazy val trending: TweetList = ???
+     lazy val trending: TweetList = googleTweets.union(appleTweets).descendingByRetweet
   }
 
 object Main extends App {
