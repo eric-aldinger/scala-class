@@ -5,7 +5,7 @@ import org.scalatest.FunSuite
 
 import org.junit.runner.RunWith
 import org.scalatest.junit.JUnitRunner
-/*
+
 @RunWith(classOf[JUnitRunner])
 class CountChangeSuite extends FunSuite {
   import Main.countChange
@@ -26,4 +26,3 @@ class CountChangeSuite extends FunSuite {
   }
 
 }
-*/

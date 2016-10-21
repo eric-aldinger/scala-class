@@ -18,8 +18,10 @@ class BalanceSuite extends FunSuite {
     assert(balance("I told him (that it's not (yet) done).\n(But he wasn't listening)".toList))
   }
 
-  test("balance: ':-)' is unbalanced") {
-    assert(!balance(":-)".toList))
+  test("balance: Predef.augmentString(\"((hello)there)you)\").toList)") {
+    val in = Predef.augmentString("((hello)there)you)").toList
+    val _sut = balance(in)
+    assert(_sut == false)
   }
 
   test("balance: counting is not enough") {

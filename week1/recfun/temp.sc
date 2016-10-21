@@ -1,3 +1,7 @@
+val money = 1
+val head = 1
+val moneyHead = (money - head) == 0
+
 val x : List[Char] = "())(".toList
 val open = x.indexOf('(')
 val close = x.indexOf(')')
