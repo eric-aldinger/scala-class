@@ -24,4 +24,3 @@ class nexter(n:Nat) extends Nat{
     if(that.isZero) this else n - that.pre
   def returner = this == n
 }
-
