@@ -2,6 +2,8 @@ package patmat
 
 import common._
 
+import scala.annotation.tailrec
+
 /**
  * Assignment 4: Huffman coding
  *
@@ -111,24 +113,10 @@ object Huffman {
    * If `trees` is a list of less than two elements, that list should be returned
    * unchanged.
    */
-    def combine(trees: List[CodeTree]): List[CodeTree] = {
-
-      val cnt: Int = trees.count( x => x == x)
-
-      def maketree(tree : List[CodeTree]): List[CodeTree]={
-        val in = tree.tail
-        val out = makeCodeTree(tree.head, in.head) :: in.tail sortBy(weight(_))
-        matcher(out.count( x => x == x), out)
-      }
-
-      def matcher(cnt:Int,  tree : List[CodeTree] ): List[CodeTree] = cnt match {
-        case cnt if cnt <= 2 => tree
-        case cnt if cnt > 2 => maketree(tree)
-        case _ => Nil
-      }
-
-      matcher(cnt, trees)
-    }
+  def combine(trees: List[CodeTree]): List[CodeTree] = trees match{
+    case first :: second :: tail => makeCodeTree(first, second) :: tail sortBy(weight(_))
+    case _ => trees
+  }
   
   /**
    * This function will be called in the following way:
@@ -147,8 +135,12 @@ object Huffman {
    *    the example invocation. Also define the return type of the `until` function.
    *  - try to find sensible parameter names for `xxx`, `yyy` and `zzz`.
    */
-    def until(xxx: ???, yyy: ???)(zzz: ???): ??? = ???
-  
+  @tailrec
+  def until(singleton: List[CodeTree] => Boolean, combine: List[CodeTree] => List[CodeTree]) (tree: List[CodeTree]) : List[CodeTree] =
+  {
+    if (singleton(tree)) tree
+    else until(singleton, combine)(combine(tree))
+  }
   /**
    * This function creates a code tree which is optimal to encode the text `chars`.
    *

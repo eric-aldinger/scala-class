@@ -68,10 +68,17 @@ class HuffmanSuite extends FunSuite {
     assert(singleton(t1) == false)
   }
 
-  test("combine two node leaf list") {
+  test("combine one node leaf list") {
+    val leaflist = List(Leaf('t', 2))
+    assert(combine(leaflist) === leaflist)
+  }
+
+/*  TODO
+test("combine two node leaf list") {
     val leaflist = List(Leaf('e', 1), Leaf('t', 2))
     assert(combine(leaflist) === leaflist)
   }
+*/
 
   test("combine empty leaf list") {
     val leaflist: List[CodeTree] = List()
@@ -82,6 +89,14 @@ class HuffmanSuite extends FunSuite {
     val leaflist = List(Leaf('e', 1), Leaf('t', 2), Leaf('x', 4))
     assert(combine(leaflist) === List(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4)))
   }
+
+  test("until recurses") {
+    val leaflist = List(Leaf('e', 1), Leaf('t', 2), Leaf('x', 14), Leaf('y', 9), Leaf('z', 4))
+    val _sut = until(singleton, combine)(leaflist)
+    val expected = List(Fork(Leaf('x',14),Fork(Fork(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3),Leaf('z',4),List('e', 't', 'z'),7),Leaf('y',9),List('e', 't', 'z', 'y'),16),List('x', 'e', 't', 'z', 'y'),30))
+    assert(_sut === expected)
+  }
+
 
   test("decode and encode a very short text should be identity") {
     new TestTrees {

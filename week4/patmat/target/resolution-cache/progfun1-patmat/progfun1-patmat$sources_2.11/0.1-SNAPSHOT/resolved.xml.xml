@@ -4,7 +4,7 @@
 		module="progfun1-patmat$sources_2.11"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161023193946"
+		publication="20161024224519"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

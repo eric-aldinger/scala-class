@@ -1,7 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61df5448-893d-4e57-9bfd-1bc3daa7023d" name="Default" comment="" />
+    <list default="true" id="61df5448-893d-4e57-9bfd-1bc3daa7023d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$5a375f058439f0135f11$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$5a375f058439f0135f11.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$5a375f058439f0135f11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$63f091cb01941be23656$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$63f091cb01941be23656$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$63f091cb01941be23656.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$63f091cb01941be23656.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$7b3b5dad4fd9b67fd58a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$7b3b5dad4fd9b67fd58a$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$7b3b5dad4fd9b67fd58a.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$7b3b5dad4fd9b67fd58a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$9cd1613f19a206642d71$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$9cd1613f19a206642d71$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$9cd1613f19a206642d71.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$9cd1613f19a206642d71.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$bfd0c2bf8962228e99d5$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$bfd0c2bf8962228e99d5$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$bfd0c2bf8962228e99d5.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week1/recfun/project/project/target/config-classes/$bfd0c2bf8962228e99d5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$134c35e31aacc43063d8$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$134c35e31aacc43063d8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$134c35e31aacc43063d8$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$134c35e31aacc43063d8.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$134c35e31aacc43063d8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$448df87152189d2e8635$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$448df87152189d2e8635$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$448df87152189d2e8635.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$448df87152189d2e8635.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$5553751901455c11bac0$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$5553751901455c11bac0$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$5553751901455c11bac0.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$5553751901455c11bac0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$575400d8db04adbe3272$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$575400d8db04adbe3272$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$575400d8db04adbe3272.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$575400d8db04adbe3272.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$ad638b7da6988feb258c$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$ad638b7da6988feb258c$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$ad638b7da6988feb258c.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$ad638b7da6988feb258c.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$cc8aa5640e3783072e8a$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$cc8aa5640e3783072e8a$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$cc8aa5640e3783072e8a.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../week3/project/target/config-classes/$cc8aa5640e3783072e8a.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3df7f9f819b0ceede26b$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3df7f9f819b0ceede26b.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$3df7f9f819b0ceede26b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4b97319494692ebc56f8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4b97319494692ebc56f8$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4b97319494692ebc56f8.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$4b97319494692ebc56f8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$cd81e49a84744146c14d$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$cd81e49a84744146c14d$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$cd81e49a84744146c14d.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$cd81e49a84744146c14d.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e366ca4a01579e55124b$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e366ca4a01579e55124b$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e366ca4a01579e55124b.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e366ca4a01579e55124b.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e9292cc668a6b5523e54$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e9292cc668a6b5523e54$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e9292cc668a6b5523e54.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$e9292cc668a6b5523e54.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$068c1944d726fc0e4b27$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$068c1944d726fc0e4b27$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$068c1944d726fc0e4b27.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$068c1944d726fc0e4b27.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0dfe432508a1b861a8e8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0dfe432508a1b861a8e8$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0dfe432508a1b861a8e8.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0dfe432508a1b861a8e8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$25834bba47c8b34e936f$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$25834bba47c8b34e936f$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$25834bba47c8b34e936f.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$25834bba47c8b34e936f.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2b50a2911bdb50c8b964$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2b50a2911bdb50c8b964$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2b50a2911bdb50c8b964.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2b50a2911bdb50c8b964.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$38a45d8e5400545db180$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$38a45d8e5400545db180$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$38a45d8e5400545db180$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$38a45d8e5400545db180.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$38a45d8e5400545db180.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$489f5213979ab10c8be7$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$489f5213979ab10c8be7$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$489f5213979ab10c8be7.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$489f5213979ab10c8be7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9efc39d8ae1c9a1dbf06$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9efc39d8ae1c9a1dbf06$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9efc39d8ae1c9a1dbf06.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$9efc39d8ae1c9a1dbf06.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b7181e5847c8f3f34b1e$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b7181e5847c8f3f34b1e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b7181e5847c8f3f34b1e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b7181e5847c8f3f34b1e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c44a8222aac3c75f2911$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c44a8222aac3c75f2911$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c44a8222aac3c75f2911.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$c44a8222aac3c75f2911.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$df81963f5ca5be7c2462$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$df81963f5ca5be7c2462$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$df81963f5ca5be7c2462.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$df81963f5ca5be7c2462.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfaf69cb7a56ca7185dd$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfaf69cb7a56ca7185dd$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfaf69cb7a56ca7185dd.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dfaf69cb7a56ca7185dd.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e41ff0305e50cba09e14$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e41ff0305e50cba09e14$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e41ff0305e50cba09e14.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$e41ff0305e50cba09e14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f2bfbe2b8ca7015040f4$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f2bfbe2b8ca7015040f4$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f2bfbe2b8ca7015040f4.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f2bfbe2b8ca7015040f4.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/GradingFeedback.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/ScalaTestRunner$LimitedStringBuffer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$8$$anonfun$apply$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitLocalSetting$1$$anonfun$apply$2$$anonfun$apply$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike$$anonfun$submitSetting$1$$anonfun$apply$5$$anonfun$apply$6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/StyleChecker$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$CodeTree.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$CodeTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Fork$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Fork$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Fork.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Fork.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Leaf$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Leaf$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Leaf.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$Leaf.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$10.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$9.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../../target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../../week3/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3$sources_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3$sources_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3_2.11/1.0/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/default/week3_2.11/1.0/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-compile.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-docs.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-optional.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-plugin.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-pom.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-provided.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-runtime.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-sources.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-test.xml" afterPath="$PROJECT_DIR$/../../week3/target/resolution-cache/reports/default-week3_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="$PROJECT_DIR$/../../week3/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../../week3/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../week3/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../../week3/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-patmat-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" afterPath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" afterPath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat$sources_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/progfun1-patmat/progfun1-patmat_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat$sources_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/progfun1-patmat-progfun1-patmat_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+    </list>
     <ignored path="patmat.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,13 +279,15 @@
     <favorites_list name="patmat" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Huffman.scala" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Huffman.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="100" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="17">
+              <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="150" selection-end-column="2" />
+              <folding>
+                <element signature="e#16#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,18 +295,18 @@
       <file leaf-file-name="temp.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="391">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HuffmanSuite.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HuffmanSuite.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+            <state relative-caret-position="1734">
+              <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding>
                 <element signature="e#16#45#0" expanded="true" />
               </folding>
@@ -69,6 +323,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -78,8 +335,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/temp.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
       </list>
     </option>
   </component>
@@ -89,7 +346,7 @@
     <option name="width" value="1616" />
     <option name="height" value="886" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -125,7 +382,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="ScalaTest.HuffmanSuite">
+  <component name="RunManager" selected="JUnit.HuffmanSuite">
     <configuration default="false" name="HuffmanSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="root" />
@@ -478,14 +735,14 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.HuffmanSuite" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HuffmanSuite" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HuffmanSuite" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.HuffmanSuite" />
         <item index="2" class="java.lang.String" itemvalue="ScalaTest.HuffmanSuite.weight of a larger tree" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1477276787014" />
+    <option name="lastUpdateTimestamp" value="1477374321852" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -533,35 +790,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 31m 43s.xml">
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 18m 27s.xml">
       <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 47m 24s.xml">
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 20m 18s.xml">
       <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 49m 47s.xml">
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 34m 12s.xml">
       <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 50m 42s.xml">
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 35m 10s.xml">
       <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 50m 52s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 35m 44s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 50m 57s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 36m 24s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 51m 03s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 37m 44s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 56m 09s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 38m 21s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.23 at 23h 56m 31s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 38m 43s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HuffmanSuite - 2016.10.24 at 00h 00m 00s.xml">
-      <configuration name="HuffmanSuite" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="HuffmanSuite - 2016.10.24 at 22h 39m 24s.xml">
+      <configuration name="HuffmanSuite" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -577,32 +834,32 @@
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25385603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -625,28 +882,86 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/temp.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+    <entry file="file://$PROJECT_DIR$/temp.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="100" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+        <state relative-caret-position="1819">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding>
             <element signature="e#16#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="150" selection-end-column="2" />
+          <folding>
+            <element signature="e#16#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
