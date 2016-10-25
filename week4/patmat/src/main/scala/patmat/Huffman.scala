@@ -111,7 +111,24 @@ object Huffman {
    * If `trees` is a list of less than two elements, that list should be returned
    * unchanged.
    */
-    def combine(trees: List[CodeTree]): List[CodeTree] = ???
+    def combine(trees: List[CodeTree]): List[CodeTree] = {
+
+      val cnt: Int = trees.count( x => x == x)
+
+      def maketree(tree : List[CodeTree]): List[CodeTree]={
+        val in = tree.tail
+        val out = makeCodeTree(tree.head, in.head) :: in.tail sortBy(weight(_))
+        matcher(out.count( x => x == x), out)
+      }
+
+      def matcher(cnt:Int,  tree : List[CodeTree] ): List[CodeTree] = cnt match {
+        case cnt if cnt <= 2 => tree
+        case cnt if cnt > 2 => maketree(tree)
+        case _ => Nil
+      }
+
+      matcher(cnt, trees)
+    }
   
   /**
    * This function will be called in the following way:
