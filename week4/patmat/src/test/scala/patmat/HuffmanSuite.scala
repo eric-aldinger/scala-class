@@ -97,11 +97,18 @@ test("combine two node leaf list") {
     assert(_sut === expected)
   }
 
+  test("createCodeTree works somehow"){
+    val in = "This".toList
+    val _sut = createCodeTree(in)
+    val expect = Fork(Fork(Leaf('i',1),Leaf('T',1),List('i', 'T'),2),Fork(Leaf('h',1),Leaf('s',1),List('h', 's'),2),List('i', 'T', 'h', 's'),4)
+    assert(_sut == expect)
+  }
 
   test("decode and encode a very short text should be identity") {
     new TestTrees {
       assert(decode(t1, encode(t1)("ab".toList)) === "ab".toList)
     }
   }
+
 
 }
